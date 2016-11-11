@@ -8,6 +8,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 
 			System.out.println("Hello Github good morning");
+		System.out.println("from github editor");
 	}
 
 }
