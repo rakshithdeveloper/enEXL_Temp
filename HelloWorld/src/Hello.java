@@ -11,6 +11,8 @@ public class Hello {
 		System.out.println("from github editor");
 
 		System.out.println("modified at 11:07 by eclipse");
+		
+		System.out.println("frpm clipse 11:18");
 
 	}
 
